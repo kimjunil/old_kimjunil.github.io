@@ -1,0 +1,80 @@
+[
+  
+    {
+
+      "title"    : "[프로그래머스] LV2 더 맵게",
+      "description" : "",
+      "url"      : "/2021/12/29/algorithm",
+      "category" : "algorithm",
+      "tags"     : "algorithm, programmers",
+      "date"     : "2021-12-29 13:54:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "[밑시딥] 3. 신경망",
+      "description" : "",
+      "url"      : "/2021/12/28/dls-3-neural-network",
+      "category" : "Deep Learning",
+      "tags"     : "Machine Learning, Deep Learning",
+      "date"     : "2021-12-28 16:27:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "[프로그래머스] LV2 짝지어 제거하기",
+      "description" : "",
+      "url"      : "/2021/12/27/algorithm-003",
+      "category" : "algorithm",
+      "tags"     : "algorithm, programmers",
+      "date"     : "2021-12-27 17:29:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "[프로그래머스] LV2 뉴스 클러스터링",
+      "description" : "",
+      "url"      : "/2021/12/23/algorithm-002",
+      "category" : "algorithm",
+      "tags"     : "algorithm, programmers",
+      "date"     : "2021-12-23 12:39:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "[밑시딥] 2. 퍼셉트론",
+      "description" : "",
+      "url"      : "/2021/12/22/dls-2-perceptron",
+      "category" : "Deep Learning",
+      "tags"     : "Machine Learning, Deep Learning",
+      "date"     : "2021-12-22 06:27:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "[프로그래머스] LV2 전화번호 목록",
+      "description" : "",
+      "url"      : "/2021/12/21/algorithm-001",
+      "category" : "algorithm",
+      "tags"     : "algorithm, programmers",
+      "date"     : "2021-12-21 16:04:00 +0900"
+
+    } ,
+  
+    {
+
+      "title"    : "CSS hacks you may not know",
+      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners",
+      "url"      : "/2014/05/12/css-hacks-you-may-not-know",
+      "category" : "",
+      "tags"     : "css",
+      "date"     : "2014-05-12 00:00:00 +0900"
+
+    } 
+  
+]
